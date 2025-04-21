@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-21T13:23:48 IST" name="Default suite" finished-at="2025-04-21T13:23:52 IST" duration-ms="4927">
+    <groups>
+      <group name="functional">
+        <method signature="RequestCallBackFormTest.testPopupClosesOnClickingX()[pri:0, instance:apollohospitals.urology.tests.RequestCallBackFormTest@2320fa6f]" name="testPopupClosesOnClickingX" class="apollohospitals.urology.tests.RequestCallBackFormTest"/>
+      </group> <!-- functional -->
+      <group name="popup">
+        <method signature="RequestCallBackFormTest.testPopupClosesOnClickingX()[pri:0, instance:apollohospitals.urology.tests.RequestCallBackFormTest@2320fa6f]" name="testPopupClosesOnClickingX" class="apollohospitals.urology.tests.RequestCallBackFormTest"/>
+      </group> <!-- popup -->
+      <group name="ui">
+        <method signature="RequestCallBackFormTest.testPopupClosesOnClickingX()[pri:0, instance:apollohospitals.urology.tests.RequestCallBackFormTest@2320fa6f]" name="testPopupClosesOnClickingX" class="apollohospitals.urology.tests.RequestCallBackFormTest"/>
+      </group> <!-- ui -->
+      <group name="close">
+        <method signature="RequestCallBackFormTest.testPopupClosesOnClickingX()[pri:0, instance:apollohospitals.urology.tests.RequestCallBackFormTest@2320fa6f]" name="testPopupClosesOnClickingX" class="apollohospitals.urology.tests.RequestCallBackFormTest"/>
+      </group> <!-- close -->
+    </groups>
+    <test started-at="2025-04-21T13:23:48 IST" name="Default test" finished-at="2025-04-21T13:23:52 IST" duration-ms="4927">
+      <class name="apollohospitals.urology.tests.RequestCallBackFormTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:apollohospitals.urology.tests.RequestCallBackFormTest@2320fa6f]" started-at="2025-04-21T13:23:48 IST" name="launchApplication" finished-at="2025-04-21T13:23:52 IST" duration-ms="4427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="testPopupClosesOnClickingX()[pri:0, instance:apollohospitals.urology.tests.RequestCallBackFormTest@2320fa6f]" started-at="2025-04-21T13:23:52 IST" name="testPopupClosesOnClickingX" finished-at="2025-04-21T13:23:52 IST" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPopupClosesOnClickingX -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:apollohospitals.urology.tests.RequestCallBackFormTest@2320fa6f]" started-at="2025-04-21T13:23:52 IST" name="tearDown" finished-at="2025-04-21T13:23:52 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- apollohospitals.urology.tests.RequestCallBackFormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

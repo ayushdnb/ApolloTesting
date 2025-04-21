@@ -1,0 +1,29 @@
+[
+  {
+    "name": "",
+    "email": "",
+    "city": "",
+    "mobile": "",
+    "expectedError_name": "Name is required.",
+    "expectedError_email": "Email is required.",
+    "expectedError_city": "City selection is required.",
+    "expectedError_mobile": "Phone number is required.",
+    "expectedError_otp": "Please enter otp."
+  },
+  {
+    "name": "Ram",
+    "email": "ram@test.com",
+    "city": "Bangalore",
+    "mobile": "faas",
+    "expectedError_mobile": "Please enter a valid 10-digit phone number",
+    "expectedError_otp": "Please enter otp."
+  },
+  {
+    "name": "Ayush",
+    "email": "ds@14",
+    "city": "Delhi",
+    "mobile": "98123",
+    "expectedError_email": "Please enter a valid email address.",
+    "expectedError_otp": "Please enter otp."
+  }
+]
